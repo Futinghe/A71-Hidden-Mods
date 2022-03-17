@@ -7,7 +7,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 1. Download the module from the releases
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded 
-4. (Optional) Use this guide to fix fingerprint sensor not working after clock transition https://forum.xda-developers.com/t/guide-aod-activeclock-clocktransition-bug-workaround-on-non-flagship-phones.4417185/
+4. (Optional) Use [this guide](https://forum.xda-developers.com/t/guide-aod-activeclock-clocktransition-bug-workaround-on-non-flagship-phones.4417185/) to fix fingerprint sensor not working after clock transition
 
 > Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
 
