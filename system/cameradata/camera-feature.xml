@@ -15,6 +15,8 @@
     <local name="SHOOTING_MODE_SLOW_MOTION" back="SLOW_MOTION" front="SLOW_MOTION" enable="true" more="true" order="12" preview-size="1280x720" capture-size="1280x720" front-preview-size="1920x1080" front-capture-size="1920x1080"/>
     <local name="SHOOTING_MODE_HYPER_LAPSE" back="HYPER_LAPSE" front="HYPER_LAPSE" enable="true" more="true" order="13" preview-size="1920x1080" capture-size="1920x1080" info="7"/>
     <local name="SHOOTING_MODE_PRO_VIDEO" back="PRO_VIDEO" enable="true" more="true" order="14"/>
+    <local name="SHOOTING_MODE_FUN" back="FUN" front="FUN" enable="false" more="false" order="15"/>
+    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="LIVE_FOCUS_LITE" enable="true" more="false" order="16" info="2"/>
 
     <!-- Capture resolution - BACK -->
     <local name="BACK_CAMERA_RESOLUTION_4BY3_LARGE" value="9248x6936" />
@@ -156,6 +158,7 @@
     <local name="SUPPORT_LIVE_BEAUTY_MANUAL_RESHAPE" value="false"/>
     <local name="SUPPORT_SMART_BEAUTY_GLOBAL" value="true"/>
     <local name="SUPPORT_LIVE_BEAUTY_SHAPE_CORRECTION" value="false"/>
+    <local name="SUPPORT_BODY_BEAUTY" value="true"/>
     <local name="SUPPORT_BACK_VIDEO_BEAUTY" value="true"/>
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true" />
     <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true" />
@@ -183,6 +186,7 @@
     <!-- Performance -->
     <local name="REMOSAIC_CAPTURE_LOW_PERFORMANCE" value="true"/>
     <local name="LOW_PERFORMANCE_RECORDING_VI" value="true" />
+    <local name="SUPPORT_CAMERA_APP_ENTRY_PERFORMANCE" value="true" />
 
     <!-- AF features -->
     <local name="SUPPORT_MULTI_AF" value="false"/>
@@ -200,10 +204,12 @@
     <local name="TRANSITION_WIDE_TO_NORMAL_ANIMATION_DURATION" value="600" />	
 
     <!-- Support picture format -->
-    <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="false"/>
-
+    <local name="SUPPORT_POST_PROCESSING_MOTION_PHOTO" value="true"/>
     <local name="SUPPORT_POST_PICTURE_PROCESSING" value="true"/>
-    <local name="SUPPORT_POST_PICTURE_PROCESSING_FOR_EFFECTS" value="false"/>
+    <local name="SUPPORT_POST_PICTURE_PROCESSING_FOR_EFFECTS" value="true"/>
+    <local name="SUPPORT_POST_PROCESSING_NIGHT_SHOT" value="true"/>
+    <local name="SUPPORT_POST_PROCESSING_MAX_NIGHT_SHOT" value="true"/>
+
 
     <!-- Single take features -->
     <local name="SINGLE_TAKE_USING_BEAUTY" value="true" />
