@@ -10,13 +10,12 @@
     <local name="SHOOTING_MODE_MACRO" back="MACRO" enable="true" more="true" order="7" info="4"/>
     <local name="SHOOTING_MODE_FOOD" back="FOOD" enable="true" more="true" order="8" info="5"/>
     <local name="SHOOTING_MODE_NIGHT" back="NIGHT" front="NIGHT" enable="true" more="true" order="9" info="3"/>
-    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="LIVE_FOCUS_LITE" enable="true" more="true" order="10" info="2"/>
+    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="SELFIE_FOCUS" enable="true" more="true" order="10" info="2"/>
     <local name="SHOOTING_MODE_SUPER_SLOW_MOTION" back="SUPER_SLOW_MOTION" enable="true" more="true" order="11" preview-size="1280x720" capture-size="1280x720" info="6"/>
     <local name="SHOOTING_MODE_SLOW_MOTION" back="SLOW_MOTION" front="SLOW_MOTION" enable="true" more="true" order="12" preview-size="1280x720" capture-size="1280x720" front-preview-size="1920x1080" front-capture-size="1920x1080"/>
     <local name="SHOOTING_MODE_HYPER_LAPSE" back="HYPER_LAPSE" front="HYPER_LAPSE" enable="true" more="true" order="13" preview-size="1920x1080" capture-size="1920x1080" info="7"/>
     <local name="SHOOTING_MODE_PRO_VIDEO" back="PRO_VIDEO" enable="true" more="true" order="14"/>
     <local name="SHOOTING_MODE_FUN" back="FUN" front="FUN" enable="false" more="false" order="15"/>
-    <local name="SHOOTING_MODE_LIVE_FOCUS" back="LIVE_FOCUS" front="LIVE_FOCUS_LITE" enable="true" more="false" order="16" info="2"/>
 
     <!-- Capture resolution - BACK -->
     <local name="BACK_CAMERA_RESOLUTION_4BY3_LARGE" value="9248x6936" />
@@ -117,6 +116,9 @@
     <!-- Intelligent recognition -->
     <local name="SUPPORT_INTELLIGENT_GUIDE_TIPS" value="true" />
     <local name="SUPPORT_INTELLIGENT_RECOGNITION_TIPS" value="true" />
+    <local name="SUPPORT_FOCUS_GUIDE" value="true"/>
+    <local name="SUPPORT_SUPER_RESOLUTION_SMART_TIPS" value="true" />
+    <local name="SUPPORT_CLOSE_UP_SUGGESTION" value="true"/>
 
     <!-- Live focus & bokeh -->
     <local name="SUPPORT_LIVE_FOCUS_TORCH_FLASH" value="true"/>
@@ -162,6 +164,8 @@
     <local name="SUPPORT_BACK_VIDEO_BEAUTY" value="true"/>
     <local name="SUPPORT_WIDE_LENS_CORRECTION" value="true" />
     <local name="SUPPORT_BEAUTY_BRIGHTEN" value="true" />
+    <local name="SUPPORT_LIVE_BEAUTY_SKIN_COLOR" value="true" />
+    <local name="SUPPORT_SELFIE_TONE_MODE" value="true"/>
 
     <!-- Super Slow Motion features -->
     <local name="SUPPORT_SUPER_SLOW_MOTION_FRC_FIXED" value="true"/>
@@ -209,7 +213,7 @@
     <local name="SUPPORT_POST_PICTURE_PROCESSING_FOR_EFFECTS" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_NIGHT_SHOT" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_MAX_NIGHT_SHOT" value="true"/>
-
+    <local name="SUPPORT_NIGHT_CAPTURE_STOP" value="true"/>
 
     <!-- Single take features -->
     <local name="SINGLE_TAKE_USING_BEAUTY" value="true" />
@@ -258,10 +262,15 @@
     <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_RESET" value="true"/>
     <local name="SUPPORT_PRO_RESET" value="true"/>
+    <local name="SUPPORT_PRO_AE_PRIORITY_MODE" value="true"/>
     <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true"/>
     <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>	
     <local name="SUPPORT_SWITCH_FACING_WHILE_RECORDING" value="true"/>	
     <local name="DELAY_TIME_TO_RESUME_WHEN_SWITCH_FACING_WHILE_RECORDING" value="250" />
+    <local name="SUPPORT_VIDEO_AUTO_FPS" value="true"/>
+    <local name="SUPPORT_PHOTO_NIGHT" value="true"/>
+    <local name="SUPPORT_TOUCH_VIBRATIONS" value="true"/>
+    <local name="SUPPORT_DISPLAY_FRAME_RATE_60HZ" value="true"/>
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
@@ -280,4 +289,5 @@
     <local name="TOP_GUIDE_LINE" value="0.145"/>
     <local name="BOTTOM_GUIDE_LINE" value="0.746"/>
     <local name="SUPPORT_SMART_SCAN_MANUAL_CROP" value="true" />
+    <local name="KEEP_CHANGED_EV_AFTER_ZOOM" value="true"/>
 </resources>
