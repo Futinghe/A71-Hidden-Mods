@@ -41,6 +41,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
 - Unlimited video file size
 - Switch camera (back/front) while recording (Bug: When switching, camera is upside down)
+- Object/Shadow/Reflection Eraser (Update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) to make it work, by installing the latest APK)
 - FullHD 60FPS recording
 - 24FPS mode for 4K and FHD (Pro mode)
 - Second editing in Single Take
