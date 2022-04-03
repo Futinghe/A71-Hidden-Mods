@@ -6,10 +6,13 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 ### Installation:
 1. Download the module from the releases
 2. Open the magisk app and go to modules
-3. Click the "Install from storage" button and select the .zip you just downloaded 
-4. (Optional) Use [this guide](https://forum.xda-developers.com/t/guide-aod-activeclock-clocktransition-bug-workaround-on-non-flagship-phones.4417185/) to fix fingerprint sensor not working after clock transition
+3. Click the "Install from storage" button and select the .zip you just downloaded
 
 > Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
+
+### Troubleshooting:
+- To fix the fingerprint sensor not working after aod clock transition use [this guide](https://forum.xda-developers.com/t/guide-aod-activeclock-clocktransition-bug-workaround-on-non-flagship-phones.4417185/).
+- To make Object / Shadow / Reflection Eraser show, update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) by installing the latest APK.
 
 #### Added OS Features:
 - Higher Audio Quality (Disabled DRC, which deeply compresses audio)
@@ -30,6 +33,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - ADPS (Wi-Fi Power Saving)
 - Enabled [mDNIe](https://www.samsung.com/global/galaxy/what-is/mdnie/)
 - Enabled Resolution changing (FHD, HD - only visible in Bixby Routines)
+- Added Smart Widget
 
 
 #### Added camera features:
@@ -45,3 +49,4 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Torch flash in live focus
 - Night mode zoom
 - Review feature
+- Many, not worth to mention, additions

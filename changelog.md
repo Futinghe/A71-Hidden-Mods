@@ -1,2 +1,2 @@
-<b>v1.6.0 | Changelog:</b>
-<br/>• Changed front live focus from lite to full<br/>• Selfie skin tone added<br/>• Video Auto FPS added<br/>• Tele cam in pro mode added<br/>• "Detail Enhancer" feature added (64MP mode)<br/>• Improved Portrait mode<br/>• Improved Gallery Photo Remaster feature<br/>• Fixed face unlock effect not showing in lock screen<br/>• Small general additions
+<b>v1.7.0 | Changelog:</b>
+<br/>• Added Object/Shadow/Reflection Eraser (Update Samsung Photo Editor to make it work, by installing the latest APK)<br/>• Added Smart Widget<br/>
