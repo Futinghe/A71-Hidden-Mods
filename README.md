@@ -42,12 +42,17 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Unlimited video file size
 - Switch camera (back/front) while recording (Bug: When switching, camera is upside down)
 - Object/Shadow/Reflection Eraser (Update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) to make it work, by installing the latest APK)
+- AI Detail Enhancer feature (64MP mode)
 - FullHD 60FPS recording
 - 24FPS mode for 4K and FHD (Pro mode)
 - Second editing in Single Take
 - Custom resolutions in live focus
-- Beauty feature in live focus
+- Full Beauty features (Beauty in Live Focus, Beauty Brighten, Body Beauty, change skin tone)
 - Torch flash in live focus
 - Night mode zoom
 - Review feature
+- Video Auto FPS
+- S-Series Photo Processing
+- S-Series AI-Models & AI Features
+- S-Series Remaster photo feature (Denoise, Deblur, Moire, Upscale, Photopolish and more added)
 - Many, not worth to mention, additions
