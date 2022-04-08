@@ -35,6 +35,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - ADPS (Wi-Fi Power Saving)
 - Enabled [mDNIe](https://www.samsung.com/global/galaxy/what-is/mdnie/)
 - Added Smart Widget
+- Google Discover in OneUI stock launcher
 
 
 #### Added camera features:
