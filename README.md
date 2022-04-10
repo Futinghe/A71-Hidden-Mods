@@ -10,7 +10,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded
 
-> Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
+> Note: It should only be used on the Galaxy A71 (SM-A715F) running the corresponding android version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
 
 ### Troubleshooting:
 - To fix the fingerprint sensor not working after aod clock transition use [this guide](https://forum.xda-developers.com/t/guide-aod-activeclock-clocktransition-bug-workaround-on-non-flagship-phones.4417185/).
