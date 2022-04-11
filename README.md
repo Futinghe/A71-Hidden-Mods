@@ -55,5 +55,4 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Video Auto FPS
 - S-Series Photo Processing
 - S-Series AI-Models & AI Features
-- S-Series Remaster photo feature (Denoise, Deblur, Moire, Upscale, Photopolish and more added)
 - Many, not worth to mention, additions
