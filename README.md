@@ -49,4 +49,5 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Torch flash in live focus
 - Night mode zoom
 - Review feature
+- [Galaxy Watch Camera Controller](https://www.samsung.com/us/support/answer/ANS00084676/)
 - Many, not worth to mention, additions
