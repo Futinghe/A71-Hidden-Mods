@@ -1,2 +1,2 @@
-<b>v1.8.0 | Changelog:</b>
-<br/>• Sync with A72-Hidden-Mods<br/>
+<b>v1.8.1 | Changelog:</b>
+<br/>• Added Samsung Smart Suggestions (Smart Calendar, Smart Widgets Auto Rotation, ..)<br/>
