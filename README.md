@@ -29,8 +29,6 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Fixed Smart View (Normally broken on rooted devices)
 - Fixed S-Health (Normally broken on rooted devices - hide in magisk to fully work)
 - Enhance Photo Feature in Gallery
-- Updated AOD Doze Service
-- Updated AOD Engine
 - Codec support for APE, DSD and HDR10+ content
 - Camera Privacy Toggle
 - ADPS (Wi-Fi Power Saving)

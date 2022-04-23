@@ -1,2 +1,2 @@
-<b>v1.8.1 | Changelog:</b>
-<br/>• Added Samsung Smart Suggestions (Smart Calendar, Smart Widgets Auto Rotation, ..)<br/>
+<b>v1.8.2 | Changelog:</b>
+<br/>• Fixed gallery crash, when using "Remaster picture" feature<br/>
