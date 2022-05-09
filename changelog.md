@@ -1,2 +1,2 @@
-<b>v1.8.2 | Changelog:</b>
-<br/>• Fixed gallery crash, when using "Remaster picture" feature<br/>
+<b>v1.8.3 | Changelog:</b>
+<br/>• Update APKs<br/>
