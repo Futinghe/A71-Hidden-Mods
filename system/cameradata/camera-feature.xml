@@ -194,6 +194,9 @@
     <local name="REMOSAIC_CAPTURE_LOW_PERFORMANCE" value="true"/>
     <local name="LOW_PERFORMANCE_RECORDING_VI" value="true" />
     <local name="SUPPORT_CAMERA_APP_ENTRY_PERFORMANCE" value="true" />
+    <local name="USE_EARLY_ZOOM_VIEW_INFLATION" value="true" />
+    <local name="USE_KEY_SCREEN_INFLATION_DELAY" value="true" />
+    <local name="SUPPORT_LOW_PERFORMANCE_REMOSAIC_CAPTURE" value="true"/>
 
     <!-- AF features -->
     <local name="SUPPORT_MULTI_AF" value="false"/>
@@ -281,6 +284,7 @@
     <local name="SUPPORT_PHOTO_NIGHT" value="true"/>
     <local name="SUPPORT_TOUCH_VIBRATIONS" value="true"/>
     <local name="SUPPORT_DISPLAY_FRAME_RATE_60HZ" value="true"/>
+    <local name="SUPPORT_CAMERA_DEBUG_INFO" value="true"/>
 
     <!-- Advance option HDR10+ Video Recording -->
     <local name="SUPPORT_HDR10_PLUS_RECORDING" value="false"/>
@@ -303,4 +307,5 @@
     <local name="SUPPORT_PRO_VIDEO_RESET" value="true" />        
     <local name="SUPPORT_PRO_VIDEO_RESOLUTION_SETTING" value="true" />
     <local name="SUPPORT_PRO_COLOR_TUNE_TEMPERATURE" value="true"/>
+    <local name="SUPPORT_HDR_RICH_TONE_MENU" value="true"/>
 </resources>
