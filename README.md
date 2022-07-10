@@ -56,4 +56,4 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - S-Series Photo Processing
 - S-Series AI-Models & AI Features
 - [Galaxy Watch Camera Controller](https://www.samsung.com/us/support/answer/ANS00084676/)
-- Many, not worth to mention, additions
+- Many, not worth to mention, additions (Most of them probably don't work if not listed above)
