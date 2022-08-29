@@ -1,7 +1,7 @@
 id=a71mods
 name=A71 Hidden Mods
-version=v1.9
-versionCode=18
-author=UltraHQ & ShaDisNX255 & Futinghe
+version=v1.9.1
+versionCode=19
+author=Futinghe & UltraHQ & ShaDisNX255
 description=This module adds some Camera and OS mods. (Android 12)
 updateJson=https://raw.githubusercontent.com/Futinghe/A71-Hidden-Mods/Android-12/update.json

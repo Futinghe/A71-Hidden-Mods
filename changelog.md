@@ -1,2 +1,2 @@
-<b>v1.9 | Changelog:</b>
-<br/>• Improved camera performance<br/>
+<b>v1.9.1 | Changelog:</b>
+<br/>• Updated APKs<br/>
