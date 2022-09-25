@@ -1,3 +1,2 @@
-<b>v1.9.2 | Changelog:</b>
-<br/>• Updated APKs<br/>
-<br/>• Updated One UI Home<br/>
+<b>v1.9.3 | Changelog:</b>
+<br/>• Fixed Smart Widget auto rotation<br/>
