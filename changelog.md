@@ -1,2 +1,2 @@
-<b>v1.9.3 | Changelog:</b>
-<br/>• Fixed Smart Widget auto rotation<br/>
+<b>v1.9.4 | Changelog:</b>
+<br/>• Reverted v1.9.3 changes<br/>
