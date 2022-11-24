@@ -24,38 +24,19 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Disabled Samsung Marketing
 - High-End Animations
 - Enhanced CPU Responsiveness
-- Added High Performance mode (also known as Enhanced Processing mode)
 - Voice Recorder Interview mode
 - AOD to Lockscreen Transition
 - Full Edge Lighting
 - Fixed Smart View (Normally broken on rooted devices)
-- Fixed S-Health (Normally broken on rooted devices - hide in magisk to fully work)
-- Enhance Photo Feature in Gallery
 - Codec support for APE, DSD and HDR10+ content
 - Camera Privacy Toggle
 - ADPS (Wi-Fi Power Saving)
 - Enabled [mDNIe](https://www.samsung.com/global/galaxy/what-is/mdnie/)
-- Added Smart Widget
 - Google Discover in OneUI stock launcher
-- Samsung Smart Suggestions (Smart Calendar, Smart Widgets Auto Rotation, ..)
-
 
 #### Added camera features:
-- Added new modes: Pro Video
-- Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
-- Unlimited video file size
-- Switch camera (back/front) while recording (Bug: When switching, camera is upside down)
-- Object/Shadow/Reflection Eraser (Update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) to make it work, by installing the latest APK)
-- AI Detail Enhancer feature (64MP mode)
+- Added new mode: Pro Video
 - FullHD 60FPS recording
-- 24FPS mode for 4K and FHD (Pro mode)
-- Second editing in Single Take
-- Custom resolutions in live focus
-- Torch flash in live focus
-- Night mode zoom
-- Review feature
-- Video Auto FPS
-- S-Series Photo Processing
-- S-Series AI-Models & AI Features
+- Enhance Photo Feature in Gallery
 - [Galaxy Watch Camera Controller](https://www.samsung.com/us/support/answer/ANS00084676/)
 - Many, not worth to mention, additions (Most of them probably don't work if not listed above)
