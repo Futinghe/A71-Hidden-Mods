@@ -17,7 +17,6 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 
 ### Troubleshooting:
 - To fix the fingerprint sensor not working after aod clock transition use [this guide](https://forum.xda-developers.com/t/guide-aod-activeclock-clocktransition-bug-workaround-on-non-flagship-phones.4417185/).
-- To make Object / Shadow / Reflection Eraser show, update [Samsung Photo Editor](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-photo-editor/) by installing the latest APK.
 - To fix Samsung Health root detection, I recommend using [this magisk module](https://github.com/stylemessiah/SamsungHealthSecurityProps).
 
 #### Added OS Features:
