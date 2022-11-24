@@ -1,5 +1,4 @@
 # A71-Hidden-Mods
-### Fork from [@UltraHQ](https://github.com/UltraHQ) with added features (mostly from his [A72-Hidden-Mods](https://github.com/UltraHQ/A72-Hidden-Mods) repository) and Android 12 support.
 
 # ⚠️ No longer supported as I don't own this device anymore.
 
