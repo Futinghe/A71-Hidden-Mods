@@ -3,7 +3,7 @@
 
 # ⚠️ No longer supported as I don't own this device anymore.
 
-### [Click here](https://github.com/Futinghe/A71-Hidden-Mods/tree/Android-13), if you're looking for the Android 13.
+### [Click here](https://github.com/Futinghe/A71-Hidden-Mods/tree/Android-13), if you're looking for the Android 13 version.
 ### [Click here](https://github.com/UltraHQ/A71-Hidden-Mods/tree/Android-11), if you're looking for the Android 11 version made by UltraHQ.
 A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) plus some extra mods systemlessly.<br/>
 Thanks ShaDisNX255 for contributing so much! Most features came from him.
